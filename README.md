@@ -3,6 +3,10 @@
 💻 Undergraduate Computer Engineer | 🚀 Web Developer | 🛒 Shopify Expert
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500"/>
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -32,6 +36,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
+</p>
 
 ---
 
